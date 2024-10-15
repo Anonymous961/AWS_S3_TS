@@ -9,6 +9,4 @@ const config = {
     BUCKET_REGION: process.env.BUCKET_REGION
 }
 
-console.log(config)
-
 export default config;
